@@ -1,0 +1,276 @@
+{
+  "game": "lyrics",
+  "title": "노래 제목 맞추기",
+  "questions": [
+    {
+      "id": "lyrics-001",
+      "enabled": true,
+      "question": "우리가 만든 러브 시나리오 이젠 조명이 꺼지고 마지막 페이지를 넘기면 조용히 막을 내리죠",
+      "answers": ["사랑을 했다"],
+      "hint": ["사랑"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-002",
+      "enabled": true,
+      "question": "이 밤 그날의 반딧불을 당신의 창 가까이 보낼게요.",
+      "answers": ["밤편지"],
+      "hint": ["ㅇㅇ지"],
+      "image": null,
+      "description": ""
+    },
+     {
+      "id": "lyrics-003",
+      "enabled": true,
+      "question": "너는 내게 너무 예뻐서 꿈일까 난 너무 두려워 기억해 제발 이 순간 Tonight",
+      "answers": ["나야나"],
+      "hint": ["오늘밤 주인공은?"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-004",
+      "enabled": true,
+      "question": "이런 내 맘 모르고 너무해 너무해",
+      "answers": ["TT","티티","tt"],
+      "hint": ["ㅠㅠ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-005",
+      "enabled": true,
+      "question": "이건 세상에서 제일 비싼 단독 공연",
+      "answers": ["폰서트"],
+      "hint": ["ㅍㅅㅌ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-006",
+      "enabled": true,
+      "question": "몹시도 좋았다. 너를 지켜보고 설레고",
+      "answers": ["첫 눈처럼 너에게 가겠다"],
+      "hint": ["도깨비"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-007",
+      "enabled": true,
+      "question": "낡은 하모니카 손에 익은 기타 your melody",
+      "answers": ["나에게로 떠나는 여행"],
+      "hint": ["활어회"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-008",
+      "enabled": true,
+      "question": "그리고 한번씩 누나 주려 샀는데 너 그냥 준다고 생색 낸 선물도 너 때문에 산 거야",
+      "answers": ["취중 고백"],
+      "hint": ["ㅇㅇ고백"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-009",
+      "enabled": true,
+      "question": "좋았던 기억만 그리운 마음만 네가 떠나간 그 길 위에",
+      "answers": ["야생화"],
+      "hint": ["야생에서 나는 꽃"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-010",
+      "enabled": true,
+      "question": "이러다 여친한테 들킨단 말야 반짝이 바르지마 이러다 옷에 묻으면 안된단 말야",
+      "answers": ["향수 뿌리지마"],
+      "hint": ["향이 너무 쎄!!"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-011",
+      "enabled": true,
+      "question": "행복하지 마요 행복하려면 사랑한 날 잊어야 하잖아",
+      "answers": ["행복하지 말아요"],
+      "hint": ["don't be happy"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-012",
+      "enabled": true,
+      "question": "더 울어라 젊은 인생아 져도 괜찮아 넘어지면 어때",
+      "answers": ["형"],
+      "hint": ["동생"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-013",
+      "enabled": true,
+      "question": "때로는 영화배우 같아 때로는 코미디언 같아",
+      "answers": ["연예인"],
+      "hint": ["ㅇㅇㅇ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-014",
+      "enabled": true,
+      "question": "이야 야하야하 우-라(핫 핫 핫 얏) 우라-",
+      "answers": ["우사기랩"],
+      "hint": ["뿌릿-"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-015",
+      "enabled": true,
+      "question": "궁금해 허니 깨물면 점점 녹아든 스트로베리 그 맛",
+      "answers": ["빨간맛"],
+      "hint": ["이건 무슨 맛?"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-016",
+      "enabled": true,
+      "question": "너는 별을 보자며 내 손을 끌어서",
+      "answers": ["옥탑방"],
+      "hint": ["ㅇㅌㅂ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-017",
+      "enabled": true,
+      "question": "팔랑귀 팔랑귀 눈치나 살피기 도가니 사리기 넘어가 울타리",
+      "answers": ["레드 레드","red red"],
+      "hint": ["X X"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-018",
+      "enabled": true,
+      "question": "검은 그림자 내 안에 깨어나 널 보는 두 눈에 불꽃이 튄다",
+      "answers": ["으르렁"],
+      "hint": ["짐승 울음소리"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-019",
+      "enabled": true,
+      "question": "You don't have to cry 울지 말아요 고개 들어봐요 이젠 웃어 봐요",
+      "answers": ["청혼"],
+      "hint": ["프로포즈"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-020",
+      "enabled": true,
+      "question": "건반처럼 생긴 도로 위 수많은 동그라미들",
+      "answers": ["신호등"],
+      "hint": ["빨노초"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-021",
+      "enabled": true,
+      "question": "사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간 들이 자꾸 내 마음을 가둬두네",
+      "answers": ["사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간 들이 자꾸 내 마음을 가둬두네"],
+      "hint": ["이미 답이 나왔어요"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-022",
+      "enabled": true,
+      "question": "사랑해, 널 잊을 순 없을 거야 미안해, 너를 지키지 못한 것을",
+      "answers": ["천상연"],
+      "hint": ["ㅊㅅㅇ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-023",
+      "enabled": true,
+      "question": "여보세요 나야 거기 잘 지내니 여보세요 왜 말 안하니",
+      "answers": ["소주 한 잔"],
+      "hint": ["술"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-024",
+      "enabled": true,
+      "question": "어두운 불빛 아래 촛불 하나 와인 잔에 담긴 약속하나",
+      "answers": ["아로하"],
+      "hint": ["ㅇㄹㅎ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-025",
+      "enabled": true,
+      "question": "그래 그리 쉽지는 않겠지 나를 허락해준 세상이란 손쉽게 다가오는 편하고도 감미로운 공간이 아냐",
+      "answers": ["버터플라이","butter fly"],
+      "hint": ["나비"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-026",
+      "enabled": true,
+      "question": "눈물처럼 하루가 가요 그대 맘은 괜찮은가요? My love",
+      "answers": ["허니","honey"],
+      "hint": ["꿀"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-027",
+      "enabled": true,
+      "question": "어디에 있나요? 제 얘기 정말 들리시나요? ",
+      "answers": ["고해"],
+      "hint": ["ㄱㅎ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-028",
+      "enabled": true,
+      "question": "한 장씩 너를 지울 때마다 가슴이 아려와 너의 사진이 점점 흐려져",
+      "answers": ["삭제"],
+      "hint": ["Delete"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-029",
+      "enabled": true,
+      "question": "그대 내게 오지 말아요 두번 다시 이런 사랑하지마요",
+      "answers": ["어디에도"],
+      "hint": ["ㅇㄷㅇㄷ"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-030",
+      "enabled": true,
+      "question": "거기 있어 줘서, 그게 너라서 가끔 내 어깨에 가만히 기대주어서",
+      "answers": ["너의 모든 순간"],
+      "hint": ["잘자요~"],
+      "image": null,
+      "description": ""
+    }
+  ]
+}

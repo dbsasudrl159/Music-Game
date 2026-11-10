@@ -1,0 +1,186 @@
+{
+  "game": "people",
+  "title": "인물 맞추기",
+  "questions": [
+    {"id": "people-001",
+     "enabled": true, 
+     "name": "박효신", 
+     "answers": ["박효신"], 
+     "image": "img/people/phs.jpg", 
+     "hints": ["신","대장님"], 
+     "description": ""
+    },
+    {"id": "people-002",
+     "enabled": true, 
+     "name": "임창정", 
+     "answers": ["임창정"], 
+     "image":  "img/people/icj.jpeg", 
+     "hints": ["소주 한 잔"], 
+     "description": ""
+    },
+    {"id": "people-003",
+     "enabled": true, 
+     "name": "김종국", 
+     "answers": ["김종국"], 
+     "image":  "img/people/kjk.jpeg", 
+     "hints": ["모기소리"], 
+     "description": ""
+    },
+    {"id": "people-004",
+     "enabled": true, 
+     "name": "하하", 
+     "answers": ["하하"], 
+     "image":  "img/people/haha.jpeg", 
+     "hints": ["키 작은 사람"], 
+     "description": ""
+    },
+    {"id": "people-005",
+     "enabled": true, 
+     "name": "카더가든", 
+     "answers": ["카더가든"], 
+     "image":  "img/people/kdgd.jpeg", 
+     "hints": ["가던말던","카놀라유"], 
+     "description": ""
+    },
+    {"id": "people-006",
+     "enabled": true, 
+     "name": "KCM", 
+     "answers": ["KCM","케이씨엠"], 
+     "image":  "img/people/kcm.jpeg", 
+     "hints": ["근육맨"], 
+     "description": ""
+    },
+    {"id": "people-007",
+     "enabled": true, 
+     "name": "아이유", 
+     "answers": ["아이유","iu"], 
+     "image":  "img/people/iu.jpeg", 
+     "hints": ["국민 여동생"], 
+     "description": ""
+    },
+    {"id": "people-008",
+     "enabled": true, 
+     "name": "이수현", 
+     "answers": ["이수현"], 
+     "image":  "img/people/lsh.jpeg", 
+     "hints": ["이찬혁 여동생"], 
+     "description": ""
+    },
+    {"id": "people-009",
+     "enabled": true, 
+     "name": "이찬혁", 
+     "answers": ["이찬혁"], 
+     "image":  "img/people/lch.jpeg", 
+     "hints": ["이수현 오빠"], 
+     "description": ""
+    },
+    
+    {"id": "people-010",
+     "enabled": true, 
+     "name": "이무진", 
+     "answers": ["이무진"], 
+     "image":  "img/people/mj.jpeg", 
+     "hints": ["까만 리무진"], 
+     "description": ""
+    },
+    
+    {"id": "people-011",
+     "enabled": true, 
+     "name": "안지영", 
+     "answers": ["안지영"], 
+     "image":  "img/people/ajy.jpeg", 
+     "hints": ["모르지영~"], 
+     "description": ""
+    },
+    
+    {"id": "people-012",
+     "enabled": true, 
+     "name": "수지", 
+     "answers": ["수지"], 
+     "image":  "img/people/sj.jpeg", 
+     "hints": ["난리도 아니야~"], 
+     "description": ""
+    },
+    
+    {"id": "people-013",
+     "enabled": true, 
+     "name": "강남", 
+     "answers": ["강남"], 
+     "image":  "img/people/gn.jpeg", 
+     "hints": ["국가대표 남편"], 
+     "description": ""
+    },
+    
+    {"id": "people-014",
+     "enabled": true, 
+     "name": "백예린", 
+     "answers": ["백예린"], 
+     "image":  "img/people/byl.jpeg", 
+     "hints": ["INFP"], 
+     "description": ""
+    },
+    
+    {"id": "people-015",
+     "enabled": true, 
+     "name": "한로로", 
+     "answers": ["한로로"], 
+     "image":  "img/people/hrr.jpeg", 
+     "hints": ["케로로"], 
+     "description": ""
+    },
+    
+    {"id": "people-016",
+     "enabled": true, 
+     "name": "이영지", 
+     "answers": ["이영지"], 
+     "image":  "img/people/yj.jpeg", 
+     "hints": ["차쥐뿔"], 
+     "description": ""
+    },
+    
+    {"id": "people-017",
+     "enabled": true, 
+     "name": "박명수", 
+     "answers": ["박명수"], 
+     "image":  "img/people/pms.jpeg", 
+     "hints": ["출~발~알~"], 
+     "description": ""
+    },
+    
+    {"id": "people-018",
+     "enabled": true, 
+     "name": "이승기", 
+     "answers": ["이승기"], 
+     "image":  "img/people/sk.jpeg", 
+     "hints": ["누나"], 
+     "description": ""
+    },
+    
+    {"id": "people-019",
+     "enabled": true, 
+     "name": "김범수", 
+     "answers": ["김범수"], 
+     "image":  "img/people/kbs.jpeg", 
+     "hints": ["못친소"], 
+     "description": ""
+    },
+    
+    {"id": "people-020",
+     "enabled": true, 
+     "name": "이수", 
+     "answers": ["이수"], 
+     "image":  "img/people/isu.jpeg", 
+     "hints": ["몇 수?"], 
+     "description": ""
+    },
+    
+    {"id": "people-021",
+     "enabled": true, 
+     "name": "나얼", 
+     "answers": ["나얼"], 
+     "image":  "img/people/nu.jpeg", 
+     "hints": ["가얼, 다얼, 라얼...어 뭐가 빠졌네?"], 
+     "description": ""
+    }
+    ]
+}
