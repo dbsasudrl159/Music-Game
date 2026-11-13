@@ -23,7 +23,9 @@ async function act(a,d){try{
 document.addEventListener("click",e=>{const b=e.target.closest("[data-act]");if(b)act(b.dataset.act,b.dataset)});
 document.addEventListener("input",e=>{const t=e.target,p=t.dataset&&t.dataset.p;if(p)PQ.settings.set(p,t.type==="checkbox"?t.checked:t.value)});
 document.addEventListener("change",e=>{const g=e.target.dataset&&e.target.dataset.file;if(g&&e.target.files[0])PQ.settings.importFile(g,e.target.files[0]).then(()=>PQ.settings.show(true))});
-document.addEventListener("keydown",e=>{if(e.key==="Enter"&&e.target.id==="ans")act("check",{})});
+document.addEventListener("keydown",e=>{if(e.key!=="Enter"||e.repeat)return;
+ if(e.target.id==="ans"){act("check",{});return}
+ const nx=$('[data-act="next"]');if(nx){e.preventDefault();act("next",{})}});
 set('<p class="note">데이터를 불러오는 중…</p>');
 Promise.all(GS.map(g=>D.load(g))).catch(e=>console.error(e)).finally(home);
 })();

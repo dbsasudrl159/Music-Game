@@ -271,6 +271,92 @@
       "hint": ["잘자요~"],
       "image": null,
       "description": ""
+    },
+    {
+      "id": "lyrics-031",
+      "enabled": true,
+      "question": "지쳐쓰러지며 되돌아가는 내 삶이 초라해 보인데도",
+      "answers": ["말리꽃"],
+      "hint": ["말린꽃"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-032",
+      "enabled": true,
+      "question": "바다가 지겨워지고 숲이 푸르르지 않다고, 그 아름다움을 잊는다면 사랑이 아닐거에요",
+      "answers": ["내게 사랑이 뭐냐고 물어본다면"],
+      "hint": ["사랑이 뭔데요"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-033",
+      "enabled": true,
+      "question": "안녕 오늘 하루는 어땠나요 오늘 날씨 만큼 흐렸나요",
+      "answers": ["조용히 완전히 영원히"],
+      "hint": ["소리없이, 남김없이, 끝없이"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-034",
+      "enabled": true,
+      "question": "내가 살아온 모든 행복을 더 해도 우리의 짧은 날만 못하죠",
+      "answers": ["전부 너였다"],
+      "hint": ["Everything was you"],
+      "image": null,
+      "description": ""
+    },{
+      "id": "lyrics-035",
+      "enabled": true,
+      "question": "이러지마, 제발, 떠나지마 제발",
+      "answers": ["이러지마 제발"],
+      "hint": ["어어 왜 이러세요?", "싫어요 안돼요 하지마세요"],
+      "image": null,
+      "description": ""
+    },{
+      "id": "lyrics-036",
+      "enabled": true,
+      "question": "제발 지옥같은 여기서 날 꺼내줘 이게 꿈이라면 어서 날 채워줘",
+      "answers": ["죽을 만큼 아파서"],
+      "hint": ["죽을 만큼 아파요"],
+      "image": null,
+      "description": ""
+    },{
+      "id": "lyrics-037",
+      "enabled": true,
+      "question": "내 사랑에 세상도 양보한 널 나 끝까지 아끼며 사랑할게",
+      "answers": ["금지된 사랑"],
+      "hint": ["예나 선정이 딸이예요"],
+      "image": null,
+      "description": ""
+    },{
+      "id": "lyrics-038",
+      "enabled": true,
+      "question": "그대는 나의 어린애 그대는 휘파람 휘이이 불며 떠나가 버렸네",
+      "answers": ["휘파람"],
+      "hint": ["휘휘~"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-039",
+      "enabled": true,
+      "question": "Oh 나의 늦은 20대 고백 변해버린 모습 그대로 okay",
+      "answers": ["고백"],
+      "hint": ["난 핸들이 고장난 eight톤 트럭"],
+      "image": null,
+      "description": ""
+    },
+    {
+      "id": "lyrics-040",
+      "enabled": true,
+      "question": "또 우울한 어떤 날 비마저 내리고 늘 우리가 듣던 노래가 라디오에서 나오면",
+      "answers": ["나와 같다면"],
+      "hint": ["너와 다르다면"],
+      "image": null,
+      "description": ""
     }
   ]
 }
