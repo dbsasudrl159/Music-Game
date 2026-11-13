@@ -3,7 +3,7 @@
 const esc=PQ.esc,D=PQ.data;
 const TL={pickCount:"문제 개수 안내",ph:"입력창 안내",check:"확인 버튼",hint:"힌트 버튼",giveup:"정답 보기 버튼",next:"다음 버튼",finish:"결과 버튼",correct:"정답 문구",wrong:"오답 문구",resultTitle:"결과 제목",again:"다시 하기 버튼",home:"처음으로 버튼"};
 const DEF={
- site:{title:"귀가본능",sub:"음악이 이끄는 곳으로, 당신의 플레이리스트를 들려주세요.",notice:"",counts:"1,3,5"},
+ site:{title:"귀가본능",sub:"음악이 이끄는 곳으로, 당신의 플레이리스트를 들려주세요.",notice:"",counts:"3,5,7,9,12"},
  t:{pickCount:"몇 문제를 풀어볼까요?",ph:"정답을 입력하세요",check:"정답 확인",hint:"힌트 보기",giveup:"정답 보기",next:"다음 문제",finish:"결과 보기",correct:"정답입니다!",wrong:"아쉬워요! 정답은",resultTitle:"결과",again:"다시 하기",home:"처음으로"},
  lyrics:{name:"노래 제목 맞추기",desc:"Play the music",order:"random",counts:"",hints:true,ic:true,is:true,ip:true},
  people:{name:"인물 맞추기",desc:"Nice to meet you",order:"random",counts:"",hints:true,ic:true,is:true,ip:true,fit:"contain"}
